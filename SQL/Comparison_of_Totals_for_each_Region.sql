@@ -1,10 +1,3 @@
--'In this project, I aimed to analyze and compare the total sales and        
-services revenue across different regions for Apple products in 2024.        
-The dataset contains sales data for various Apple products, including        
-iPhones, iPads, Macs, and Wearables, along with revenue from Apple’s       
-services. The primary goal was to aggregate and summarize these values       
-by region to identify regional patterns in sales performance'
-
 #Comparison_of_Totals_for_each_Region
 SELECT DISTINCT Region, 
        SUM(`Services Revenue (in billion $)`) AS Total_Services_Revenue, 
