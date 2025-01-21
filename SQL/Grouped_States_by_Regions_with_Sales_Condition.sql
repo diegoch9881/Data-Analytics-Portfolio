@@ -15,3 +15,9 @@ state within its respective region based on the sum of iPhone sales, with the RA
 function giving a rank that skips numbers in case of ties and DENSE_RANK() giving ranks without skipping'
 -'The PARTITION BY Region clause ensures that the ranking is done within each       
 region, not across the entire dataset'
+-'The GROUP BY clause is used to aggregate the data by region, ensuring that       
+the sums are calculated for each specific region'
+
+-'The result of this query would give an overview of the total revenue from services,       
+iPhone sales, and Mac sales for each region, which is valuable for understanding the       
+regional dynamics of Apple’s business in 2024'
