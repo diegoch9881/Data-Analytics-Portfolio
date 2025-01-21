@@ -18,6 +18,6 @@ region, not across the entire dataset'
 -'The GROUP BY clause is used to aggregate the data by region, ensuring that       
 the sums are calculated for each specific region'
 
--'The result of this query would give an overview of the total revenue from services,       
+-'The result of this query gives an overview of the total revenue from services,       
 iPhone sales, and Mac sales for each region, which is valuable for understanding the       
 regional dynamics of Apple’s business in 2024'
