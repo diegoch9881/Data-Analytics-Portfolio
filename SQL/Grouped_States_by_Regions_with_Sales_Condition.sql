@@ -19,5 +19,4 @@ region, not across the entire dataset'
 the sums are calculated for each specific region'
 
 -'The result of this query gives an overview of the total revenue from services,       
-iPhone sales, and Mac sales for each region, which is valuable for understanding the       
-regional dynamics of Apple’s business in 2024'
+iPhone sales, and Mac sales for each region'
