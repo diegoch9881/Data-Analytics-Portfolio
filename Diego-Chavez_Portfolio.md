@@ -8,7 +8,7 @@ data analysis experience using tools like SQL, Power BI, Excel, and Python
 | **Project**| **Description**| **Tools**|
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------|
 | **Sales Analysis with SQL**         | Exploration and analysis of a commercial database to identify sales patterns and trends| SQL|
-| **KPI Dashboard**                   | Creation of an interactive dashboard to track key performance indicators| Power BI|
+| **KPI Dashboard**                   | Development of a comparative dashboard to analyze financial metrics, enabling stakeholders to monitor performance trends and identify key insights through interactive and data-driven visualizations| Power BI|
 | **Report Optimization in Excel**    | Automation and optimization of Financial Reports and Data Finder using functions and macros to improve efficiency| Excel|
 | **Python for Data** | Basic data analysis using pandas, numpy, and visualization with matplotlib| Python|
 
