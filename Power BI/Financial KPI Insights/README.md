@@ -1,49 +1,52 @@
-# Operational Performance KPI Insights | Tableau Professional Portfolio
+# Financial Performance & Resource Allocation Report | Power BI Professional Portfolio
 
 ## 📌 Project Overview
-This end-to-end Tableau project was engineered to solve a common leadership challenge: transforming fragmented service desk data into a centralized, actionable performance management tool. Developed for a Help Desk Manager, this dashboard provides a high-level view of operational health while allowing for granular drill-downs into individual agent productivity.
+This end-to-end Power BI solution was engineered to provide a comprehensive analysis of corporate financial health. The dashboard enables stakeholders to monitor revenue streams, track expense balances, and optimize resource allocation through a data-driven approach, replacing static spreadsheets with dynamic, real-time insights.
 
-## 🔗 Interactive Visualization
-👉 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/CallCenterMonthlyOperationalKPIInsights/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)**
+## 🔗 Live Interactive Dashboard
+👉 **[View Interactive Report on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYzZkZTViOTAtZDlhMy00MzQ1LTk5MjAtMjVhMjgxZWJjNjg0IiwidCI6ImM2MjU5ZjJlLTg2YTAtNDI2Yi05NWUwLTZjZTMzY2FlMTc1ZiIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSectione09619d7b535813fae37)**
 
 ---
 
 ## 💼 Business Case & Objectives
-The primary objective was to move beyond static reporting and create a dynamic environment to track two main pillars:
-1. **Workforce Efficiency:** Monitoring how employees handle their workload and identifying high performers.
-2. **Operational Trends:** Understanding call volume patterns to optimize resource allocation and staffing.
+The project addresses the need for financial transparency and strategic cost management. By consolidating disparate financial records, the report aims to:
+1. **Optimize Revenue vs. Expense Balances:** Identify trends in profitability and cost overruns.
+2. **Enhance Resource Allocation:** Provide visibility into departmental spending to support better budgeting decisions.
+3. **Strategic Forecasting:** Utilize historical data to visualize fiscal performance over time.
 
 ### Key Business Questions Answered:
-* How does the current month's satisfaction rating compare to historical peaks?
-* Which agents are maintaining high resolution rates under heavy call volumes?
-* What are the peak operational hours that require additional coverage?
+* What is the current Net Profit Margin across different business units?
+* Which expense categories are exceeding the allocated budget for the fiscal year?
+* How does revenue growth correlate with resource distribution on a month-to-month basis?
 
 ---
 
 ## 🛠️ Technical Implementation & Methodology
-To mirror the analytical depth of an enterprise-level report, I utilized several advanced Tableau features:
+This report demonstrates advanced proficiency in the Power BI ecosystem, specifically focusing on the **Tabular Model** and **DAX**:
 
-### 1. Level of Detail (LOD) Expressions
-I implemented **LOD FIXED** expressions to solve the "Monthly KPI" challenge. This allowed me to:
-* Isolate the **Maximum Date** in the entire dataset: `{ FIXED : MAX([Date]) }`.
-* Compare individual row-level metrics against global monthly targets, ensuring filters don't "break" the baseline comparisons.
+### 1. Advanced DAX (Data Analysis Expressions)
+Developed a robust library of measures to perform complex financial calculations, including:
+* **Time Intelligence:** Year-to-Date (YTD) and Year-over-Year (YoY) growth comparisons.
+* **Dynamic Aggregations:** Calculated Profit Margins, Expense Ratios, and Weighted Averages that respond to slicer selections.
+* **Conditional Logic:** Implemented KPIs that change color based on budget variance thresholds.
 
-### 2. Feature Engineering & Custom Calculations
-* **Resolution Rate Optimization:** Created boolean logic fields to calculate precise resolution percentages, filtering out unanswered calls to avoid data skew.
-* **Temporal Analysis:** Developed custom time-bins for "Speed of Answer" and "Call Hour" to identify critical service windows.
+### 2. Data Modeling & ETL (Power Query)
+* **Star Schema Architecture:** Designed a clean data model with dedicated Fact and Dimension tables to ensure high performance and scalability.
+* **ETL Processes:** Utilized Power Query for advanced data cleaning, unpivoting financial statements, and standardizing currency formats.
+* **Date Dimension:** Integrated a custom Calendar table to support advanced time-based filtering.
 
-### 3. Performance & Architecture
-* **Data Extraction:** Utilized a Tableau Data Extract (.hyper) to maximize query speed and dashboard responsiveness.
-* **Packaged Workbook (.twbx):** Integrated data and metadata into a single portable file for seamless repository sharing.
+### 3. Visual Storytelling & UX
+* **Dynamic Slicers:** Implemented hierarchical filters for Date, Region, and Category.
+* **Drill-through Actions:** Enabled users to dive from executive summaries into row-level transaction details.
 
 ---
 
 ## 📊 Dashboard Insights
-The analysis is categorized into specialized views:
-* **Satisfaction Rating (Current Month):** Real-time monitoring of customer feedback.
-* **Call Volume Analytics:** Trends analyzed by week, day, and hour.
-* **Agent Performance Scorecards:** Metrics for Resolution Rate, Total Resolved Calls, and Speed of Answer.
+The report is structured into the following analytical sections:
+* **Executive Summary:** High-level KPIs including Total Revenue, Total Expenses, and Net Income.
+* **Expense Breakdown:** A granular view of operational costs by category and department.
+* **Monthly Fiscal Trends:** Time-series analysis of cash flow and resource utilization.
 
 ---
 **Developed by:** Diego Chavez  
-*Data Analyst Portfolio | Python • SQL • Power BI • Tableau*
+*Data Analyst Portfolio | Python • SQL • Tableau • Power BI*
