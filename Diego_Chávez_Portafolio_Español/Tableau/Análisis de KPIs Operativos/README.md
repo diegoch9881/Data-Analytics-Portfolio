@@ -1,37 +1,37 @@
-# Call Center Monthly Operational KPI Insights
+# Indicadores Mensuales Operativos de Atención al Cliente | Tableau Professional Portfolio
 
-## 📌 Project Overview
-This project was developed to provide a Call Center (Help Desk) Manager with a comprehensive tool to track employee performance and overall call operations. The dashboard transforms raw data into actionable insights, helping leadership identify high-performing agents and operational bottlenecks.
+## 📌 Descripción del Proyecto
+Este proyecto fue desarrollado para proporcionar al Responsable de Soporte Técnico (Help Desk) una herramienta integral para monitorear el desempeño del equipo y las operaciones generales de atención. El dashboard transforma datos brutos en hallazgos accionables, ayudando al liderazgo a identificar agentes de alto rendimiento y cuellos de botella operativos.
 
-## 🔗 Live Interactive Dashboard
-👉 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/CallCenterMonthlyOperationalKPIInsights/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)**
-
----
-
-## 💡 Business Scenario
-A Manager needed to monitor how employees were performing and obtain general information about call volumes. The challenge was that requirements were high-level; therefore, I designed a suite of KPIs to define "success" for the department, focusing on:
-* **Efficiency:** How many calls are handled and how quickly.
-* **Effectiveness:** How many issues are actually resolved.
-* **Satisfaction:** How customers rate the service they receive.
-
-## 🛠️ Data Transformation & Technical Implementation
-To achieve a deep level of analysis, I performed extensive data cleaning and feature engineering within Tableau:
-
-* **LOD Expressions (FIXED):** Implemented Level of Detail calculations to compare current month metrics against historical maximums, ensuring the "Monthly" requirement was met dynamically.
-* **Custom Dimensions:** Created new calculated fields to categorize "Hour of Call" and "Resolution Status" for better granularity.
-* **Data Extraction:** Utilized a Tableau Data Extract (.hyper) within a packaged workbook (.twbx) to optimize performance and ensure portability.
-
-## 📊 Key Performance Indicators (KPIs)
-The dashboard is divided into several analytical views:
-* **Agent Productivity:** Breakdown of calls answered vs. resolved by individual agents.
-* **Call Volume Trends:** Hourly and daily distribution of calls to identify peak service times.
-* **Satisfaction Rating:** Monthly tracking of customer feedback to ensure service quality.
-* **Resolution Rates:** A percentage-based view of successfully closed tickets.
-
-## 📁 Repository Structure
-* `Call Center Monthly Operational KPI Insights.twbx`: The full packaged Tableau workbook (includes data).
-* `README.md`: Project documentation and links.
+## 🔗 Dashboard Interactivo en Vivo
+👉 **[Ver Reporte Interactivo en Tableau Public](https://public.tableau.com/views/CallCenterMonthlyOperationalKPIInsights/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)**
 
 ---
-**Author:** Diego Chavez  
-*Data Analyst Portfolio*
+
+## 💡 Caso de Negocio
+La gerencia necesitaba supervisar el rendimiento de los empleados y obtener información general sobre los volúmenes de llamadas. El desafío radicaba en que los requerimientos eran de alto nivel; por lo tanto, diseñé un conjunto de KPIs para definir el "éxito" del departamento, centrándome en:
+* **Eficiencia:** Cuántas llamadas se atienden y con qué rapidez.
+* **Efectividad:** Cuántos problemas se resuelven realmente.
+* **Satisfacción:** Cómo califican los clientes el servicio recibido.
+
+## 🛠️ Transformación de Datos e Implementación Técnica
+Para lograr un nivel profundo de análisis, realicé una limpieza exhaustiva de datos e ingeniería de variables dentro de Tableau:
+
+* **Expresiones LOD (FIXED):** Implementé cálculos de Nivel de Detalle para comparar las métricas del mes actual con los máximos históricos, asegurando que el requerimiento "Mensual" se cumpliera de forma dinámica.
+* **Dimensiones Personalizadas:** Creé nuevos campos calculados para categorizar la "Hora de la llamada" y el "Estado de resolución" para una mejor granularidad.
+* **Extracción de Datos:** Utilicé una extracción de datos de Tableau (.hyper) dentro de un libro de trabajo empaquetado (.twbx) para optimizar el rendimiento y garantizar la portabilidad.
+
+## 📊 Indicadores Clave de Desempeño (KPIs)
+El dashboard se divide en varias vistas analíticas:
+* **Productividad del Agente:** Desglose de llamadas contestadas vs. resueltas por cada agente.
+* **Tendencias de Volumen de Llamadas:** Distribución horaria y diaria de llamadas para identificar picos de demanda.
+* **Calificación de Satisfacción:** Seguimiento mensual de los comentarios de los clientes para asegurar la calidad del servicio.
+* **Tasas de Resolución:** Una vista porcentual de los tickets cerrados con éxito.
+
+## 📁 Estructura del Repositorio
+* `Indicadores_Mensuales_Operativos_de_Atencion_al_Cliente.twbx`: El libro de trabajo de Tableau empaquetado completo (incluye datos).
+* `README.md`: Documentación del proyecto y enlaces.
+
+---
+**Autor:** Diego Chavez  
+*Data Analyst Portfolio | Python • SQL • Tableau • Power BI*
