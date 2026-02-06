@@ -1,52 +1,58 @@
-# Financial Performance & Resource Allocation Report | Power BI Professional Portfolio
+Reporte de Rendimiento Financiero y Asignación de Recursos | Portafolio Profesional de Power BI
+📌 Descripción del Proyecto
+Esta solución integral de Power BI fue diseñada para proporcionar un análisis exhaustivo de la salud financiera corporativa. El dashboard permite a los stakeholders monitorear los flujos de ingresos, rastrear los balances de gastos y optimizar la asignación de recursos mediante un enfoque basado en datos, reemplazando las hojas de cálculo estáticas con información dinámica en tiempo real.
 
-## 📌 Project Overview
-This end-to-end Power BI solution was engineered to provide a comprehensive analysis of corporate financial health. The dashboard enables stakeholders to monitor revenue streams, track expense balances, and optimize resource allocation through a data-driven approach, replacing static spreadsheets with dynamic, real-time insights.
+🔗 Dashboard Interactivo en Vivo
+👉 Ver Reporte Interactivo en Power BI Service
 
-## 🔗 Live Interactive Dashboard
-👉 **[View Interactive Report on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYzZkZTViOTAtZDlhMy00MzQ1LTk5MjAtMjVhMjgxZWJjNjg0IiwidCI6ImM2MjU5ZjJlLTg2YTAtNDI2Yi05NWUwLTZjZTMzY2FlMTc1ZiIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSectione09619d7b535813fae37)**
+💼 Caso de Negocio y Objetivos
+El proyecto aborda la necesidad de transparencia financiera y gestión estratégica de costos. Al consolidar registros financieros dispersos, el reporte busca:
 
----
+Optimizar Balances de Ingresos vs. Gastos: Identificar tendencias de rentabilidad y excesos de costos.
 
-## 💼 Business Case & Objectives
-The project addresses the need for financial transparency and strategic cost management. By consolidating disparate financial records, the report aims to:
-1. **Optimize Revenue vs. Expense Balances:** Identify trends in profitability and cost overruns.
-2. **Enhance Resource Allocation:** Provide visibility into departmental spending to support better budgeting decisions.
-3. **Strategic Forecasting:** Utilize historical data to visualize fiscal performance over time.
+Mejorar la Asignación de Recursos: Brindar visibilidad sobre el gasto departamental para respaldar mejores decisiones presupuestarias.
 
-### Key Business Questions Answered:
-* What is the current Net Profit Margin across different business units?
-* Which expense categories are exceeding the allocated budget for the fiscal year?
-* How does revenue growth correlate with resource distribution on a month-to-month basis?
+Proyecciones Estratégicas: Utilizar datos históricos para visualizar el rendimiento fiscal a lo largo del tiempo.
 
----
+Preguntas Clave de Negocio Respondidas:
+¿Cuál es el Margen de Utilidad Neta actual en las diferentes unidades de negocio?
 
-## 🛠️ Technical Implementation & Methodology
-This report demonstrates advanced proficiency in the Power BI ecosystem, specifically focusing on the **Tabular Model** and **DAX**:
+¿Qué categorías de gastos superan el presupuesto asignado para el año fiscal?
 
-### 1. Advanced DAX (Data Analysis Expressions)
-Developed a robust library of measures to perform complex financial calculations, including:
-* **Time Intelligence:** Year-to-Date (YTD) and Year-over-Year (YoY) growth comparisons.
-* **Dynamic Aggregations:** Calculated Profit Margins, Expense Ratios, and Weighted Averages that respond to slicer selections.
-* **Conditional Logic:** Implemented KPIs that change color based on budget variance thresholds.
+¿Cómo se correlaciona el crecimiento de los ingresos con la distribución de recursos mes a mes?
 
-### 2. Data Modeling & ETL (Power Query)
-* **Star Schema Architecture:** Designed a clean data model with dedicated Fact and Dimension tables to ensure high performance and scalability.
-* **ETL Processes:** Utilized Power Query for advanced data cleaning, unpivoting financial statements, and standardizing currency formats.
-* **Date Dimension:** Integrated a custom Calendar table to support advanced time-based filtering.
+🛠️ Implementación Técnica y Metodología
+Este reporte demuestra un dominio avanzado del ecosistema Power BI, centrándose específicamente en el Modelo Tabular y DAX:
 
-### 3. Visual Storytelling & UX
-* **Dynamic Slicers:** Implemented hierarchical filters for Date, Region, and Category.
-* **Drill-through Actions:** Enabled users to dive from executive summaries into row-level transaction details.
+1. DAX Avanzado (Data Analysis Expressions)
+Desarrollo de una biblioteca robusta de medidas para realizar cálculos financieros complejos, incluyendo:
 
----
+Inteligencia de Tiempo (Time Intelligence): Comparativas de crecimiento acumulado anual (YTD) y año tras año (YoY).
 
-## 📊 Dashboard Insights
-The report is structured into the following analytical sections:
-* **Executive Summary:** High-level KPIs including Total Revenue, Total Expenses, and Net Income.
-* **Expense Breakdown:** A granular view of operational costs by category and department.
-* **Monthly Fiscal Trends:** Time-series analysis of cash flow and resource utilization.
+Agregaciones Dinámicas: Cálculo de márgenes de beneficio, ratios de gastos y promedios ponderados que responden a las selecciones de segmentadores.
 
----
-**Developed by:** Diego Chavez  
-*Data Analyst Portfolio | Python • SQL • Tableau • Power BI*
+Lógica Condicional: Implementación de KPIs que cambian de color según los umbrales de variación presupuestaria.
+
+2. Modelado de Datos y ETL (Power Query)
+Arquitectura de Esquema en Estrella (Star Schema): Diseño de un modelo de datos limpio con tablas de Hechos (Fact) y Dimensiones dedicadas para asegurar un alto rendimiento y escalabilidad.
+
+Procesos ETL: Uso de Power Query para limpieza avanzada de datos, anulación de dinamización de estados financieros (unpivoting) y estandarización de formatos de moneda.
+
+Dimensión de Fecha: Integración de una tabla de Calendario personalizada para soportar filtrado avanzado basado en el tiempo.
+
+3. Visual Storytelling y UX
+Segmentadores Dinámicos: Implementación de filtros jerárquicos por Fecha, Región y Categoría.
+
+Acciones de Obtención de Detalles (Drill-through): Capacidad para que los usuarios pasen de resúmenes ejecutivos a detalles de transacciones a nivel de fila.
+
+📊 Insights del Dashboard
+El reporte está estructurado en las siguientes secciones analíticas:
+
+Resumen Ejecutivo: KPIs de alto nivel que incluyen Ingresos Totales, Gastos Totales y Utilidad Neta.
+
+Desglose de Gastos: Una visión granular de los costos operativos por categoría y departamento.
+
+Tendencias Fiscales Mensuales: Análisis de series temporales del flujo de caja y utilización de recursos.
+
+Desarrollado por: Diego Chavez
+Portafolio de Analista de Datos | Python • SQL • Tableau • Power BI
