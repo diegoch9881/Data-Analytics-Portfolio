@@ -1,28 +1,29 @@
-# Data-Analytics-Portfolio
-This repository contains end-to-end data projects that demonstrate my technical proficiency in extracting, transforming, and visualizing data to drive business decisions.
+# Portafolio de Análisis de Datos | Portafolio Profesional
 
-# My Data Analysis Project Portfolio
-Welcome to my portfolio. Here you will find practical evidence of my experience as a Data Analyst, utilizing industry-standard tools like **SQL, Tableau, Power BI, Excel, and Python**.
+Este repositorio contiene proyectos de datos integrales (end-to-end) que demuestran mi competencia técnica en la extracción, transformación y visualización de datos para impulsar decisiones estratégicas de negocio.
 
-# Featured Projects
-| **Project** | **Description** | **Tools** |
+# Mi Portafolio de Análisis de Datos
+Bienvenido a mi portafolio. Aquí encontrarás evidencia práctica de mi experiencia como Analista de Datos, utilizando herramientas estándar de la industria como **SQL, Tableau, Power BI, Excel y Python**.
+
+# Proyectos Destacados
+| **Proyecto** | **Descripción** | **Herramientas** |
 |:--- |:--- |:--- |
-| **Sales Analysis with SQL** | Exploration of business datasets to uncover sales trends and customer patterns, utilizing complex queries and JOINS to support data-driven decision-making. | SQL |
-| **Operational Performance KPI Insights** | Interactive dashboard engineered to monitor service productivity and agent efficiency, utilizing **LOD FIXED** expressions for advanced temporal analysis. | Tableau |
-| **Financial Performance Report** | Development of a comparative dashboard to monitor revenue and expense balances, enhancing resource allocation through dynamic DAX-powered visualizations. | Power BI |
-| **Report Optimization in Excel** | Comprehensive analysis and automation of diverse datasets to enhance decision-making across financial and operational domains. | Excel |
-| **Python for Data** | Automated data cleaning and exploratory data analysis (EDA) using Pandas, NumPy, and visualization libraries like Matplotlib. | Python |
+| **Análisis de Ventas con SQL** | Exploración de conjuntos de datos comerciales para descubrir tendencias de ventas y patrones de clientes, utilizando consultas complejas y JOINS para respaldar la toma de decisiones basada en datos. | SQL |
+| **Insights de KPIs Operativos** | Dashboard interactivo diseñado para monitorear la productividad del servicio y la eficiencia de los agentes, utilizando expresiones **LOD FIXED** para análisis temporales avanzados. | Tableau |
+| **Reporte de Rendimiento Financiero** | Desarrollo de un dashboard comparativo para monitorear balances de ingresos y gastos, optimizando la asignación de recursos mediante visualizaciones dinámicas impulsadas por DAX. | Power BI |
+| **Optimización de Reportes en Excel** | Análisis exhaustivo y automatización de diversos conjuntos de datos para mejorar la toma de decisiones en los dominios financiero y operativo. | Excel |
+| **Python para Datos** | Limpieza de datos automatizada y análisis exploratorio de datos (EDA) utilizando Pandas, NumPy y librerías de visualización como Matplotlib. | Python |
 
 ---
 
-### 🛠️ Technical Skillset
-* **Data Visualization:** Tableau (LOD, Extracts), Power BI (DAX, Star Schema).
-* **Database Management:** SQL (Joins, CTEs, Aggregations).
-* **Programming:** Python (Data cleaning, EDA).
-* **Office Automation:** Advanced Excel (VLOOKUP, Pivot Tables, Power Query).
+### 🛠️ Habilidades Técnicas
+* **Visualización de Datos:** Tableau (LOD, Extracts), Power BI (DAX, Arquitectura de Esquema en Estrella).
+* **Gestión de Bases de Datos:** SQL (Joins, CTEs, Agregaciones).
+* **Programación:** Python (Limpieza de datos, EDA).
+* **Ofimática Avanzada:** Excel Experto (VLOOKUP, Tablas Dinámicas, Power Query).
 
-Each project includes a detailed explanation and showcases the specific techniques used. **Explore the project folders above for more information.**
+Cada proyecto incluye una explicación detallada y muestra las técnicas específicas utilizadas. **Explora las carpetas de proyectos superiores para obtener más información.**
 
-# Contact me
+# Contacto
 * **LinkedIn:** [diego--chavez](https://www.linkedin.com/in/diego--chavez/)
 * **Email:** diegochavez011998@gmail.com
