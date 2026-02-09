@@ -25,5 +25,5 @@ Bienvenido a mi portafolio. Aquí encontrarás evidencia práctica de mi experie
 Cada proyecto incluye una explicación detallada y muestra las técnicas específicas utilizadas. **Explora las carpetas de proyectos superiores para obtener más información.**
 
 # Contacto
-* **LinkedIn:** [diego--chavez](https://www.linkedin.com/in/diego--chavez/)
+* **LinkedIn:** [diego-chavez-al](https://www.linkedin.com/in/diego-chavez-al/)
 * **Email:** diegochavez011998@gmail.com
