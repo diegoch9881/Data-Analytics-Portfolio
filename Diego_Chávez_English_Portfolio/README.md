@@ -24,5 +24,5 @@ Welcome to my portfolio. Here you will find practical evidence of my experience 
 Each project includes a detailed explanation and showcases the specific techniques used. **Explore the project folders above for more information.**
 
 # Contact me
-* **LinkedIn:** [diego--chavez](https://www.linkedin.com/in/diego--chavez/)
+* **LinkedIn:** [diego-chavez-al](https://www.linkedin.com/in/diego-chavez-al/)
 * **Email:** diegochavez011998@gmail.com
