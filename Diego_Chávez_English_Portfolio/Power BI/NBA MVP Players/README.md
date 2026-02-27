@@ -25,9 +25,3 @@ To extract deep insights without relying on BI tool formulas, all heavy computat
 ## 📈 Dashboard Preview
 *(Add a screenshot of your Power BI dashboard here)*
 `![NBA Dashboard](link-to-your-image.png)`
-
-## 🚀 How to Run
-1. Clone the repository.
-2. Import the raw dataset into a local MySQL instance.
-3. Execute the provided `.sql` scripts to generate the analytical views and MVP algorithm.
-4. Open the `.pbix` file in Power BI Desktop and update the MySQL localhost credentials to view the interactive report.
