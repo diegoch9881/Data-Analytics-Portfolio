@@ -23,5 +23,5 @@ To extract deep insights without relying on BI tool formulas, all heavy computat
 5. **The All-Time Dream Team:** Extracting the absolute peak season of every player, the ultimate data-driven starting five consists of: Nikola Jokic, Joel Embiid, James Harden, Giannis Antetokounmpo, and Luka Doncic.
 
 ## 📈 Dashboard Preview
-*(Add a screenshot of your Power BI dashboard here)*
-`![NBA Dashboard](link-to-your-image.png)`
+<img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/ee8293c6-8888-4420-a135-000d09758ed9" />
+
