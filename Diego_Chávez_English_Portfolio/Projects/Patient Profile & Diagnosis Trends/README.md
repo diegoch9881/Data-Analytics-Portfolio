@@ -32,5 +32,8 @@ The primary objective of this project was to answer the following operational qu
 * **DAX Implementation:** Created dynamic measures using `DIVIDE`, `COUNT`, and `DISTINCTCOUNT` to calculate the average number of visits per patient.
 * **Dashboard Interactivity:** Implemented dynamic cross-filtering using Slicers for `Age_Band` and Visual Level Filters (Top N logic) to provide an intuitive drill-down experience.
 
+## 📈 Dashboard Preview
+<img width="1124" height="629" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c10f49c3-2972-49bf-a578-dd6db864857a" />
+
 ---
 *Author: Diego Alberto Chávez Álvarez*
