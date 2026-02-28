@@ -32,10 +32,5 @@ The primary objective of this project was to answer the following operational qu
 * **DAX Implementation:** Created dynamic measures using `DIVIDE`, `COUNT`, and `DISTINCTCOUNT` to calculate the average number of visits per patient.
 * **Dashboard Interactivity:** Implemented dynamic cross-filtering using Slicers for `Age_Band` and Visual Level Filters (Top N logic) to provide an intuitive drill-down experience.
 
-## 📥 How to View the Dashboard
-1. Download the `.pbix` file included in this repository.
-2. Open the file using **Power BI Desktop**.
-3. Interact with the Slicers on the canvas to explore the diagnostic trends dynamically.
-
 ---
 *Author: Diego Alberto Chávez Álvarez*
